@@ -210,3 +210,4 @@ local_s3/
 data/
 models/data/raw/
 data/interim/
+data/processed/
